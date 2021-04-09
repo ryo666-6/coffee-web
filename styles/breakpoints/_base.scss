@@ -196,6 +196,9 @@ main {
 
     &__texts {
         @extend .pb-sm;
+        padding-left: 60px;
+        padding-top: 45px;
+
 
         &.inview {
             & .travel__title::before {
